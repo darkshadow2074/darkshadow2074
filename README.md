@@ -1,4 +1,6 @@
-### Hi there This is Just A Temporary PortFolio WebSite👋
+### Hi there This is Akash Kumar Singh👋  
+   I have a Portfolio Visit there to know more about me 
+   Portfolio-link - https://darkshadow2074.netlify.app/
 🔭 I’m currently a 3rd year undergraduate
 🌱 I’m currently learning JavaScript
 
